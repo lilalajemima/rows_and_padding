@@ -18,3 +18,6 @@ For Padding, there is the EdgeInsets which is the amount of space to inset the c
 
 Source Code: https://youtu.be/vcSx9BWFXJA?si=jQR1CPyotaRbdxDE
 
+![Image of the UI](image-1.png)
+
+This was presented on the 1/10/2025
