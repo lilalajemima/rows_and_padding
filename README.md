@@ -18,6 +18,6 @@ For Padding, there is the EdgeInset,s which is the amount of space to inset the 
 
 Source Code: https://youtu.be/vcSx9BWFXJA?si=jQR1CPyotaRbdxDE
 
-![Image of the UI](image-1.png)
+![alt text](image.png)
 
 This was presented on 1/10/2025
